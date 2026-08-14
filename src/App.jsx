@@ -388,7 +388,7 @@ const FinalCTA = () => (
         <h2>Give Your Child the VPIS Advantage</h2>
         <p>Limited spaces available for 2026/2027 Academic Session.</p>
         <div className="final-cta-buttons">
-         <Link to="/admissions" className="cta-shared-btn cta-shared-btn--primary"> {applyLabel} </Link>
+         <Link to="/admissions" className="cta-shared-btn cta-shared-btn--primary"> Apply now </Link>
           <a 
             href="https://wa.me/2349132554783?text=Hello!%20I%27d%20like%20to%20learn%20more%20about%20VPIS." 
             target="_blank" 
